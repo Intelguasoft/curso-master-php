@@ -12,8 +12,8 @@ El curso master en PHP continúa con temas sobre servicios web, introspección y
 
 Este curso es una continuación del libro de PHP "PHP 7 Quick scripting reference de Mikael Olsson de la editorial APRESS.
 
-A continuación se muestra un indice de los topicos que se has escrito hasta la fecha: (18.12.2017)
+Visite el siguiente vinculo para acceder al material del curso: 
 
-[0. Subida de archivo asíncrono con PHP](https://github.com/Intelguasoft/curso-master-php/wiki/0.-Subida-de-archivo-as%C3%ADncrono-con-PHP)
+[Voy a tener suerte con PHP](https://github.com/Intelguasoft/curso-master-php/wiki/Portada)
 
-[1. Registro e inicio de sesión de PHP - Administración del estado](https://github.com/Intelguasoft/curso-master-php/wiki/1.-Registro-e-inicio-de-sesi%C3%B3n-de-PHP---Administraci%C3%B3n-del-estado-(MySQLi))
+> No te equivoques, la programación no es cosa de suerte, depende de tu empeño, persistencia y caracter. (@intelguasoft)
