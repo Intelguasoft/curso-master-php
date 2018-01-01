@@ -14,6 +14,6 @@ Este curso es una continuación del libro de PHP "PHP 7 Quick scripting referenc
 
 Visite el siguiente vinculo para acceder al material del curso: 
 
-[Voy a tener suerte con PHP](https://github.com/Intelguasoft/curso-master-php/wiki/Portada)
+[Voy a tener suerte con PHP](https://github.com/Intelguasoft/curso-master-php/wiki/Home)
 
 > No te equivoques, la programación no es cosa de suerte, depende de tu empeño, persistencia y caracter. (@intelguasoft)
